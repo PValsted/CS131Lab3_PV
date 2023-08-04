@@ -36,6 +36,6 @@ public class ArrayList<T> {
 			sb.append(i.toString()+"\n");
 		}
 		return sb.toString();
-	}
+	}//end toString
 	
 }//end class

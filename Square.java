@@ -28,4 +28,4 @@ public class Square {
 		return "Square [side=" + side + ", area=" + this.getArea() + "]";
 	}//end toString
 	
-}
+}//end class
